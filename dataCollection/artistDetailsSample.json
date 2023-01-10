@@ -1,0 +1,689 @@
+{
+  "artists": {
+    "href": "https://api.spotify.com/v1/search?query=Jimmy+Eat+World&type=artist&offset=0&limit=20",
+    "items": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        },
+        "followers": {
+          "href": null,
+          "total": 1366387
+        },
+        "genres": [
+          "emo",
+          "modern power pop",
+          "modern rock",
+          "pop punk",
+          "pop rock",
+          "rock"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3Ayl7mCk0nScecqOzvNp6s",
+        "id": "3Ayl7mCk0nScecqOzvNp6s",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab676161000051740dc33cfd207772f8e2f6b46f",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f1780dc33cfd207772f8e2f6b46f",
+            "width": 160
+          }
+        ],
+        "name": "Jimmy Eat World",
+        "popularity": 68,
+        "type": "artist",
+        "uri": "spotify:artist:3Ayl7mCk0nScecqOzvNp6s"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        },
+        "followers": {
+          "href": null,
+          "total": 770199
+        },
+        "genres": [
+          "emo",
+          "pop punk"
+        ],
+        "href": "https://api.spotify.com/v1/artists/24XtlMhEMNdi822vi0MhY1",
+        "id": "24XtlMhEMNdi822vi0MhY1",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebaf5a3cb16e57a2a815a6207d",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174af5a3cb16e57a2a815a6207d",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178af5a3cb16e57a2a815a6207d",
+            "width": 160
+          }
+        ],
+        "name": "Taking Back Sunday",
+        "popularity": 62,
+        "type": "artist",
+        "uri": "spotify:artist:24XtlMhEMNdi822vi0MhY1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/74UyKmWOIKlVjz4ebhEfZd"
+        },
+        "followers": {
+          "href": null,
+          "total": 7
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/74UyKmWOIKlVjz4ebhEfZd",
+        "id": "74UyKmWOIKlVjz4ebhEfZd",
+        "images": [],
+        "name": "Karaoke - Jimmy Eat World",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:74UyKmWOIKlVjz4ebhEfZd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
+        },
+        "followers": {
+          "href": null,
+          "total": 28672
+        },
+        "genres": [
+          "deconstructed club",
+          "escape room",
+          "uk bass"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3qIRQKST5KCIIKWgmPTY2M",
+        "id": "3qIRQKST5KCIIKWgmPTY2M",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb88900bd9e4a394900978ab13",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517488900bd9e4a394900978ab13",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17888900bd9e4a394900978ab13",
+            "width": 160
+          }
+        ],
+        "name": "JIMMY EDGAR",
+        "popularity": 39,
+        "type": "artist",
+        "uri": "spotify:artist:3qIRQKST5KCIIKWgmPTY2M"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6WA8mlh44MksdUg7Prx2zE"
+        },
+        "followers": {
+          "href": null,
+          "total": 7017
+        },
+        "genres": [
+          "calming instrumental",
+          "fingerstyle",
+          "instrumental acoustic guitar"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6WA8mlh44MksdUg7Prx2zE",
+        "id": "6WA8mlh44MksdUg7Prx2zE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273096bd2ffe94243e31094cc07",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02096bd2ffe94243e31094cc07",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851096bd2ffe94243e31094cc07",
+            "width": 64
+          }
+        ],
+        "name": "Jimmy Wahlsteen",
+        "popularity": 28,
+        "type": "artist",
+        "uri": "spotify:artist:6WA8mlh44MksdUg7Prx2zE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0sZlzSKhjreEO385HbTo0y"
+        },
+        "followers": {
+          "href": null,
+          "total": 497
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0sZlzSKhjreEO385HbTo0y",
+        "id": "0sZlzSKhjreEO385HbTo0y",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebdeeb9ef5cd14d897fd44be24",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174deeb9ef5cd14d897fd44be24",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178deeb9ef5cd14d897fd44be24",
+            "width": 160
+          }
+        ],
+        "name": "Jimmy Wooten",
+        "popularity": 3,
+        "type": "artist",
+        "uri": "spotify:artist:0sZlzSKhjreEO385HbTo0y"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Ups2SZC6E7ZroN4rAI3GS"
+        },
+        "followers": {
+          "href": null,
+          "total": 416
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/4Ups2SZC6E7ZroN4rAI3GS",
+        "id": "4Ups2SZC6E7ZroN4rAI3GS",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e44bc24155fec2d967ee941b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e44bc24155fec2d967ee941b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e44bc24155fec2d967ee941b",
+            "width": 64
+          }
+        ],
+        "name": "Jimmy Earl",
+        "popularity": 3,
+        "type": "artist",
+        "uri": "spotify:artist:4Ups2SZC6E7ZroN4rAI3GS"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb"
+        },
+        "followers": {
+          "href": null,
+          "total": 13196
+        },
+        "genres": [
+          "blues",
+          "electric blues",
+          "jazz blues",
+          "jump blues",
+          "rhythm and blues",
+          "traditional blues"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6vth8u6Wp7k2bbzDQMCmrb",
+        "id": "6vth8u6Wp7k2bbzDQMCmrb",
+        "images": [
+          {
+            "height": 976,
+            "url": "https://i.scdn.co/image/c924edc04320fd04a53b1744b42defe162c08ed8",
+            "width": 1000
+          },
+          {
+            "height": 625,
+            "url": "https://i.scdn.co/image/f24d22abfc445c212bee3e052a0c592cdf946188",
+            "width": 640
+          },
+          {
+            "height": 195,
+            "url": "https://i.scdn.co/image/79e6212de7effbe7e3e64e75afc7c19a6c5e39cb",
+            "width": 200
+          },
+          {
+            "height": 62,
+            "url": "https://i.scdn.co/image/ab7cacd8b9229cb81eca2da4c32f9067bd0f9172",
+            "width": 64
+          }
+        ],
+        "name": "Jimmy Witherspoon",
+        "popularity": 36,
+        "type": "artist",
+        "uri": "spotify:artist:6vth8u6Wp7k2bbzDQMCmrb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/78fn7P1yyETjV6JMerP4Qm"
+        },
+        "followers": {
+          "href": null,
+          "total": 1059
+        },
+        "genres": [
+          "rockabilly",
+          "traditional rockabilly"
+        ],
+        "href": "https://api.spotify.com/v1/artists/78fn7P1yyETjV6JMerP4Qm",
+        "id": "78fn7P1yyETjV6JMerP4Qm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273781c9ce6e3efd35306841287",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02781c9ce6e3efd35306841287",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851781c9ce6e3efd35306841287",
+            "width": 64
+          }
+        ],
+        "name": "Jimmy Edwards",
+        "popularity": 7,
+        "type": "artist",
+        "uri": "spotify:artist:78fn7P1yyETjV6JMerP4Qm"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/108qk05IB1HCkV1e58xwN7"
+        },
+        "followers": {
+          "href": null,
+          "total": 911
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/108qk05IB1HCkV1e58xwN7",
+        "id": "108qk05IB1HCkV1e58xwN7",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebdbfa766dce4a4750e6a97348",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174dbfa766dce4a4750e6a97348",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178dbfa766dce4a4750e6a97348",
+            "width": 160
+          }
+        ],
+        "name": "Jimmy Waters",
+        "popularity": 24,
+        "type": "artist",
+        "uri": "spotify:artist:108qk05IB1HCkV1e58xwN7"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/526SiOeohcxxzAqB1JCuQb"
+        },
+        "followers": {
+          "href": null,
+          "total": 21082
+        },
+        "genres": [
+          "electronica",
+          "french indie pop",
+          "french indietronica"
+        ],
+        "href": "https://api.spotify.com/v1/artists/526SiOeohcxxzAqB1JCuQb",
+        "id": "526SiOeohcxxzAqB1JCuQb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebc5d66e555dc3a51710570abf",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174c5d66e555dc3a51710570abf",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178c5d66e555dc3a51710570abf",
+            "width": 160
+          }
+        ],
+        "name": "Jimmy Whoo",
+        "popularity": 51,
+        "type": "artist",
+        "uri": "spotify:artist:526SiOeohcxxzAqB1JCuQb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3VVV2bTEvK0euaGngOSPwy"
+        },
+        "followers": {
+          "href": null,
+          "total": 112
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3VVV2bTEvK0euaGngOSPwy",
+        "id": "3VVV2bTEvK0euaGngOSPwy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b953d9a1c52d8a38ed48ab3e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b953d9a1c52d8a38ed48ab3e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ac4454a043b39121c4681cd3",
+            "width": 64
+          }
+        ],
+        "name": "Jimmy Westside",
+        "popularity": 17,
+        "type": "artist",
+        "uri": "spotify:artist:3VVV2bTEvK0euaGngOSPwy"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Zh8szcqjar4shjPoWJHTc"
+        },
+        "followers": {
+          "href": null,
+          "total": 3677
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0Zh8szcqjar4shjPoWJHTc",
+        "id": "0Zh8szcqjar4shjPoWJHTc",
+        "images": [
+          {
+            "height": 667,
+            "url": "https://i.scdn.co/image/5cfb818fe722c0482567d2b4c6fe4eb8d81c63c8",
+            "width": 999
+          },
+          {
+            "height": 427,
+            "url": "https://i.scdn.co/image/2ca91ecf7892b755762e04c6139da93738112061",
+            "width": 640
+          },
+          {
+            "height": 133,
+            "url": "https://i.scdn.co/image/a376d31f271890798bb714c169b9814227c4ab6e",
+            "width": 199
+          },
+          {
+            "height": 43,
+            "url": "https://i.scdn.co/image/7dade4f489a19b81337ac1154713a27faf924330",
+            "width": 64
+          }
+        ],
+        "name": "Jim Adkins",
+        "popularity": 9,
+        "type": "artist",
+        "uri": "spotify:artist:0Zh8szcqjar4shjPoWJHTc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1kkzOZkTEYFxIp8zgfZLAZ"
+        },
+        "followers": {
+          "href": null,
+          "total": 22075
+        },
+        "genres": [
+          "brazilian rock",
+          "rock caipira"
+        ],
+        "href": "https://api.spotify.com/v1/artists/1kkzOZkTEYFxIp8zgfZLAZ",
+        "id": "1kkzOZkTEYFxIp8zgfZLAZ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb9fd0cb111a89bd33331a59d9",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab676161000051749fd0cb111a89bd33331a59d9",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f1789fd0cb111a89bd33331a59d9",
+            "width": 160
+          }
+        ],
+        "name": "Jimmy & Rats",
+        "popularity": 35,
+        "type": "artist",
+        "uri": "spotify:artist:1kkzOZkTEYFxIp8zgfZLAZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0YJUdunUDA1pTDxJ8AJlyB"
+        },
+        "followers": {
+          "href": null,
+          "total": 10594
+        },
+        "genres": [
+          "singer-songwriter"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0YJUdunUDA1pTDxJ8AJlyB",
+        "id": "0YJUdunUDA1pTDxJ8AJlyB",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb56cd459fa03aac0c5ce2f6cf",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517456cd459fa03aac0c5ce2f6cf",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17856cd459fa03aac0c5ce2f6cf",
+            "width": 160
+          }
+        ],
+        "name": "Jimmy Webb",
+        "popularity": 31,
+        "type": "artist",
+        "uri": "spotify:artist:0YJUdunUDA1pTDxJ8AJlyB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Bsi3n0HZueYYrB3T6SMrV"
+        },
+        "followers": {
+          "href": null,
+          "total": 0
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/4Bsi3n0HZueYYrB3T6SMrV",
+        "id": "4Bsi3n0HZueYYrB3T6SMrV",
+        "images": [],
+        "name": "Jimmy Waters",
+        "popularity": 1,
+        "type": "artist",
+        "uri": "spotify:artist:4Bsi3n0HZueYYrB3T6SMrV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0ov4rQDHNfsZkRxsIZ6kzL"
+        },
+        "followers": {
+          "href": null,
+          "total": 4201
+        },
+        "genres": [
+          "punjabi pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0ov4rQDHNfsZkRxsIZ6kzL",
+        "id": "0ov4rQDHNfsZkRxsIZ6kzL",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb78fc77054cc3850ee18f6a84",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517478fc77054cc3850ee18f6a84",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17878fc77054cc3850ee18f6a84",
+            "width": 160
+          }
+        ],
+        "name": "Jimmy Wraich",
+        "popularity": 25,
+        "type": "artist",
+        "uri": "spotify:artist:0ov4rQDHNfsZkRxsIZ6kzL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7bOqcWjRIuQS1DZmp1HnXQ"
+        },
+        "followers": {
+          "href": null,
+          "total": 107
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7bOqcWjRIuQS1DZmp1HnXQ",
+        "id": "7bOqcWjRIuQS1DZmp1HnXQ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ff15c117f5e618b4ae7c8273",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ff15c117f5e618b4ae7c8273",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ff15c117f5e618b4ae7c8273",
+            "width": 64
+          }
+        ],
+        "name": "Jimmy Warren Band",
+        "popularity": 4,
+        "type": "artist",
+        "uri": "spotify:artist:7bOqcWjRIuQS1DZmp1HnXQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5UCA5VOsBvrJdLeoUPC6s4"
+        },
+        "followers": {
+          "href": null,
+          "total": 104
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5UCA5VOsBvrJdLeoUPC6s4",
+        "id": "5UCA5VOsBvrJdLeoUPC6s4",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebf559d15663a35c6530ab070b",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174f559d15663a35c6530ab070b",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178f559d15663a35c6530ab070b",
+            "width": 160
+          }
+        ],
+        "name": "Jimmy Warren",
+        "popularity": 5,
+        "type": "artist",
+        "uri": "spotify:artist:5UCA5VOsBvrJdLeoUPC6s4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/55PtXkNHeCW1R00J4tY5p0"
+        },
+        "followers": {
+          "href": null,
+          "total": 243
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/55PtXkNHeCW1R00J4tY5p0",
+        "id": "55PtXkNHeCW1R00J4tY5p0",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fe5bc49674c2bbe166a23c17",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fe5bc49674c2bbe166a23c17",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fe5bc49674c2bbe166a23c17",
+            "width": 64
+          }
+        ],
+        "name": "Jimmy Evans",
+        "popularity": 7,
+        "type": "artist",
+        "uri": "spotify:artist:55PtXkNHeCW1R00J4tY5p0"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=Jimmy+Eat+World&type=artist&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 25
+  }
+}

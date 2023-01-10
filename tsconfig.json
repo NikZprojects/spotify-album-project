@@ -2,8 +2,10 @@
   "compilerOptions": {
     "outDir": "./built",
     "allowJs": true,
-    "target": "es5",
-    "strict": true
+    "target": "es6",
+    "strict": true,
+    "moduleResolution": "NodeNext",
+    "allowSyntheticDefaultImports": true
   }
   //   "include": ["./src/**/*"]
 }
